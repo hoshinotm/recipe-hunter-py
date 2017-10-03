@@ -1,0 +1,6 @@
+from enum import Enum
+
+class TWILIO_IDENTIFIER(Enum):
+    ACCOUNT_SID = "AC8df62b99c552cde1464b8e581a40f301"
+    AUTH_TOKEN = "cddb0916e26fd4a20272a37833d66a82"
+    FROM_NUMBER = "+15107571234"
