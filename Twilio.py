@@ -1,6 +1,25 @@
-from enum import Enum
+from twilio.rest import Client
 
-class TWILIO_IDENTIFIER(Enum):
-    ACCOUNT_SID = "AC8df62b99c552cde1464b8e581a40f301"
-    AUTH_TOKEN = "cddb0916e26fd4a20272a37833d66a82"
-    FROM_NUMBER = "+15107571234"
+class TwilioAccess(object):
+
+    def __init__(self,account_sid,auth_token):
+        self account_sid = account_sid
+        self.auth_token = auth_token
+        self.client = Client(account_sid, auth_token)
+
+    # Return a randomly-selected number from a pool of possible texting origin
+    # numbers
+    # TODO: Implement
+    def get_random_origin_number(self):
+        return "XXXXXXXXXX"
+
+    def send_sms(self,to_number,text):
+        from_number = self.get_random_origin_number()
+        self.client.api.account.messages.create( \
+                to = to_number, \
+                from_= from_number, \
+                body = text)
+
+
+
+
