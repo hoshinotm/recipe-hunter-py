@@ -1,0 +1,312 @@
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6 /Develop/Workspace/Coursera/PythonForEverybody/pythontests/recipe-hunter-py/Food2ForkTest.py 2c73eabf0e5d3d8d3dc2b65bea9bf79f sushi
+Traceback (most recent call last):
+{
+    "count": 30,
+  File "/Develop/Workspace/Coursera/PythonForEverybody/pythontests/recipe-hunter-py/Food2ForkTest.py", line 56, in <module>
+    "recipes": [
+    args = CmdLineArgs()
+        {
+NameError: name 'CmdLineArgs' is not defined
+            "f2f_url": "http://food2fork.com/view/367438",
+            "image_url": "http://static.food2fork.com/22100331peepshiprimarydb4a.jpg",
+            "publisher": "Serious Eats",
+            "publisher_url": "http://www.seriouseats.com/",
+            "recipe_id": "367438",
+            "social_rank": 100.0,
+            "source_url": "http://www.seriouseats.com/recipes/2010/03/peeps-recipes-how-to-make-peepshi-sushi-rice-krispies-treats-easter.html",
+            "title": "How to Make Peepshi = Peeps Sushi"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/48027",
+            "image_url": "http://static.food2fork.com/sushi_bowl_recipe9026.jpg",
+            "publisher": "101 Cookbooks",
+            "publisher_url": "http://www.101cookbooks.com",
+            "recipe_id": "48027",
+            "social_rank": 99.997093684314,
+            "source_url": "http://www.101cookbooks.com/archives/sushi-bowl-recipe.html",
+            "title": "Sushi Bowl"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/35174",
+            "image_url": "http://static.food2fork.com/Buffalo2BChicken2BSushi2B5002B37560ff57bba.jpg",
+            "publisher": "Closet Cooking",
+            "publisher_url": "http://closetcooking.com",
+            "recipe_id": "35174",
+            "social_rank": 99.99454586272728,
+            "source_url": "http://www.closetcooking.com/2012/07/buffalo-chicken-sushi.html",
+            "title": "Buffalo Chicken Sushi"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/54407",
+            "image_url": "http://static.food2fork.com/sushisalade90f.jpg",
+            "publisher": "Two Peas and Their Pod",
+            "publisher_url": "http://www.twopeasandtheirpod.com",
+            "recipe_id": "54407",
+            "social_rank": 99.79722366638374,
+            "source_url": "http://www.twopeasandtheirpod.com/sushi-salad/",
+            "title": "Sushi Salad"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/fb51a3",
+            "image_url": "http://static.food2fork.com/quickandeasysushimak_67796_16x9b333.jpg",
+            "publisher": "BBC Food",
+            "publisher_url": "http://www.bbc.co.uk/food",
+            "recipe_id": "fb51a3",
+            "social_rank": 99.60862245377609,
+            "source_url": "http://www.bbc.co.uk/food/recipes/quickandeasysushimak_67796",
+            "title": "Quick and easy sushi maki (sushi rolls)"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/47261",
+            "image_url": "http://static.food2fork.com/3229808915_df398085887daf.jpg",
+            "publisher": "The Pioneer Woman",
+            "publisher_url": "http://thepioneerwoman.com",
+            "recipe_id": "47261",
+            "social_rank": 98.99412750558541,
+            "source_url": "http://thepioneerwoman.com/cooking/2009/01/perfect-sushi-rice/",
+            "title": "Perfect Sushi Rice"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/89d398",
+            "image_url": "http://static.food2fork.com/1813661_MEDIUMb56e.jpg",
+            "publisher": "BBC Good Food",
+            "publisher_url": "http://www.bbcgoodfood.com",
+            "recipe_id": "89d398",
+            "social_rank": 97.34092772027692,
+            "source_url": "http://www.bbcgoodfood.com/recipes/1813661/smoked-salmon-and-avocado-sushi",
+            "title": "Smoked salmon &amp; avocado sushi"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/31402",
+            "image_url": "http://static.food2fork.com/692820a91.jpg",
+            "publisher": "All Recipes",
+            "publisher_url": "http://allrecipes.com",
+            "recipe_id": "31402",
+            "social_rank": 81.77485070397641,
+            "source_url": "http://allrecipes.com/Recipe/Sushi-Roll/Detail.aspx",
+            "title": "Sushi Roll"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/31ab0a",
+            "image_url": "http://static.food2fork.com/howtomakesushi640x360288x1620522.jpg",
+            "publisher": "PBS Food",
+            "publisher_url": "http://www.pbs.org",
+            "recipe_id": "31ab0a",
+            "social_rank": 70.32368206720977,
+            "source_url": "http://www.pbs.org/food/recipes/negitoro-sushi/",
+            "title": "Negitoro Sushi"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/5545",
+            "image_url": "http://static.food2fork.com/9308006fe0.jpg",
+            "publisher": "All Recipes",
+            "publisher_url": "http://allrecipes.com",
+            "recipe_id": "5545",
+            "social_rank": 67.19712012790472,
+            "source_url": "http://allrecipes.com/Recipe/California-Roll-Sushi/Detail.aspx",
+            "title": "California Roll Sushi"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/30231",
+            "image_url": "http://static.food2fork.com/8781327d89.jpg",
+            "publisher": "All Recipes",
+            "publisher_url": "http://allrecipes.com",
+            "recipe_id": "30231",
+            "social_rank": 62.21230713770682,
+            "source_url": "http://allrecipes.com/Recipe/Spicy-Tuna-Sushi-Roll/Detail.aspx",
+            "title": "Spicy Tuna Sushi Roll"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/29210",
+            "image_url": "http://static.food2fork.com/100721703d3.jpg",
+            "publisher": "All Recipes",
+            "publisher_url": "http://allrecipes.com",
+            "recipe_id": "29210",
+            "social_rank": 58.47786343093328,
+            "source_url": "http://allrecipes.com/Recipe/Smoked-Salmon-Sushi-Roll/Detail.aspx",
+            "title": "Smoked Salmon Sushi Roll"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/1c2525",
+            "image_url": "http://static.food2fork.com/260613_MEDIUM9a08.jpg",
+            "publisher": "BBC Good Food",
+            "publisher_url": "http://www.bbcgoodfood.com",
+            "recipe_id": "1c2525",
+            "social_rank": 53.92426678280693,
+            "source_url": "http://www.bbcgoodfood.com/recipes/260613/sushi-salad-with-seared-tuna-avocado-and-rice-wine",
+            "title": "Sushi salad with seared tuna, avocado &amp; rice wine dressing"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/31403",
+            "image_url": "http://static.food2fork.com/963112f8.jpg",
+            "publisher": "All Recipes",
+            "publisher_url": "http://allrecipes.com",
+            "recipe_id": "31403",
+            "social_rank": 49.95460988683333,
+            "source_url": "http://allrecipes.com/Recipe/Sushi-Inspired-Tuna-Salad/Detail.aspx",
+            "title": "Sushi-Inspired Tuna Salad"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/10782",
+            "image_url": "http://static.food2fork.com/118948e742.jpg",
+            "publisher": "All Recipes",
+            "publisher_url": "http://allrecipes.com",
+            "recipe_id": "10782",
+            "social_rank": 49.81075385719767,
+            "source_url": "http://allrecipes.com/Recipe/Cucumber-And-Avocado-Sushi/Detail.aspx",
+            "title": "Cucumber and Avocado Sushi"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/48323",
+            "image_url": "http://static.food2fork.com/greeneggshamsushirecipe44812200x150d9df.jpg",
+            "publisher": "Steamy Kitchen",
+            "publisher_url": "http://www.steamykitchen.com",
+            "recipe_id": "48323",
+            "social_rank": 48.12183366072642,
+            "source_url": "http://www.steamykitchen.com/11807-green-eggs-and-ham-sushi.html",
+            "title": "Green Eggs and Ham Sushi"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/87a3fe",
+            "image_url": "http://static.food2fork.com/epicuriousfacebook511b.png",
+            "publisher": "Epicurious",
+            "publisher_url": "http://www.epicurious.com",
+            "recipe_id": "87a3fe",
+            "social_rank": 46.445497217939824,
+            "source_url": "http://www.epicurious.com/recipes/food/views/Sushi-Rice-351070",
+            "title": "Sushi Rice"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/4f8347",
+            "image_url": "http://static.food2fork.com/chipotlechickensushirollcropped410x307f373.jpg",
+            "publisher": "Tasty Kitchen",
+            "publisher_url": "http://tastykitchen.com",
+            "recipe_id": "4f8347",
+            "social_rank": 44.959330719078984,
+            "source_url": "http://tastykitchen.com/recipes/appetizers-and-snacks/chipotle-chicken-sushi-roll/",
+            "title": "Chipotle Chicken Sushi Roll"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/0adfdb",
+            "image_url": "http://static.food2fork.com/971066dbf6.jpg",
+            "publisher": "All Recipes",
+            "publisher_url": "http://allrecipes.com",
+            "recipe_id": "0adfdb",
+            "social_rank": 41.695472577546376,
+            "source_url": "http://allrecipes.com/Recipe/Vegetarian-Sushi/Detail.aspx",
+            "title": "Vegetarian Sushi"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/fe61d3",
+            "image_url": "http://static.food2fork.com/candysushitk410x27375b4.jpg",
+            "publisher": "Tasty Kitchen",
+            "publisher_url": "http://tastykitchen.com",
+            "recipe_id": "fe61d3",
+            "social_rank": 40.958316135208904,
+            "source_url": "http://tastykitchen.com/recipes/desserts/candy-sushi-2/",
+            "title": "Candy Sushi"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/19765",
+            "image_url": "http://static.food2fork.com/982221a8d7.jpg",
+            "publisher": "All Recipes",
+            "publisher_url": "http://allrecipes.com",
+            "recipe_id": "19765",
+            "social_rank": 40.88010401459721,
+            "source_url": "http://allrecipes.com/Recipe/Peanut-Butter-And-Jelly-Sushi-Rolls/Detail.aspx",
+            "title": "Peanut Butter and Jelly Sushi Rolls"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/20740",
+            "image_url": "http://static.food2fork.com/13465545c.jpg",
+            "publisher": "All Recipes",
+            "publisher_url": "http://allrecipes.com",
+            "recipe_id": "20740",
+            "social_rank": 40.81421280946527,
+            "source_url": "http://allrecipes.com/Recipe/Perfect-Sushi-Rice/Detail.aspx",
+            "title": "Perfect Sushi Rice"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/18474",
+            "image_url": "http://static.food2fork.com/698120bfc8.jpg",
+            "publisher": "All Recipes",
+            "publisher_url": "http://allrecipes.com",
+            "recipe_id": "18474",
+            "social_rank": 40.540556444339195,
+            "source_url": "http://allrecipes.com/Recipe/Kimbop-Korean-Sushi/Detail.aspx",
+            "title": "Kimbop (Korean Sushi)"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/0bf2cb",
+            "image_url": "http://static.food2fork.com/4956_MEDIUMaaa8.jpg",
+            "publisher": "BBC Good Food",
+            "publisher_url": "http://www.bbcgoodfood.com",
+            "recipe_id": "0bf2cb",
+            "social_rank": 40.38292330432696,
+            "source_url": "http://www.bbcgoodfood.com/recipes/4956/easy-salmon-sushi",
+            "title": "Easy salmon sushi"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/54122",
+            "image_url": "http://static.food2fork.com/s_1045_387125311298838f6dd7ocut146ad.jpg",
+            "publisher": "Fine Dining Lovers",
+            "publisher_url": "http://www.finedininglovers.com",
+            "recipe_id": "54122",
+            "social_rank": 40.2637233774072,
+            "source_url": "http://www.finedininglovers.com/recipes/appetizer/vegan-thai-sushi-recipe/",
+            "title": "Vegan Sushi Thai Style"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/23337",
+            "image_url": "http://static.food2fork.com/2612293997.jpg",
+            "publisher": "All Recipes",
+            "publisher_url": "http://allrecipes.com",
+            "recipe_id": "23337",
+            "social_rank": 39.76499750605827,
+            "source_url": "http://allrecipes.com/Recipe/Moms-Sushi-Rice/Detail.aspx",
+            "title": "Mom's Sushi Rice"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/a49637",
+            "image_url": "http://static.food2fork.com/IMG_0589410x2736ac7.jpg",
+            "publisher": "Tasty Kitchen",
+            "publisher_url": "http://tastykitchen.com",
+            "recipe_id": "a49637",
+            "social_rank": 38.55142078031078,
+            "source_url": "http://tastykitchen.com/recipes/appetizers-and-snacks/sushi-dip/",
+            "title": "Sushi Dip"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/18679",
+            "image_url": "http://static.food2fork.com/492649be85.jpg",
+            "publisher": "All Recipes",
+            "publisher_url": "http://allrecipes.com",
+            "recipe_id": "18679",
+            "social_rank": 37.582107963129886,
+            "source_url": "http://allrecipes.com/Recipe/Korean-Sushi/Detail.aspx",
+            "title": "Korean Sushi"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/23d7c9",
+            "image_url": "http://static.food2fork.com/1931690_MEDIUMbc6c.jpg",
+            "publisher": "BBC Good Food",
+            "publisher_url": "http://www.bbcgoodfood.com",
+            "recipe_id": "23d7c9",
+            "social_rank": 37.058558060584666,
+            "source_url": "http://www.bbcgoodfood.com/recipes/1931690/sushi-hand-rolls-temaki",
+            "title": "Sushi hand rolls (temaki)"
+        },
+        {
+            "f2f_url": "http://food2fork.com/view/218e29",
+            "image_url": "http://static.food2fork.com/1841638_MEDIUM3f6c.jpg",
+            "publisher": "BBC Good Food",
+            "publisher_url": "http://www.bbcgoodfood.com",
+            "recipe_id": "218e29",
+            "social_rank": 37.02687767234193,
+            "source_url": "http://www.bbcgoodfood.com/recipes/1841638/sushi-rice-bowl-with-beef-egg-and-chilli-sauce",
+            "title": "Sushi rice bowl with beef, egg &amp; chilli sauce"
+        }
+    ]
+}
+
+Process finished with exit code 1

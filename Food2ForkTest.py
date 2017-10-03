@@ -2,7 +2,7 @@
 # Given keywords on the command line, searches the Food2Forks
 # recipe databaase and prints out recipes with the keywords.
 #
-# - Prints recipe data in Json dump format; Handles only 1st keyword
+# - Prints individual recipe data; Handles only 1st keyword
 #
 
 import sys
@@ -78,6 +78,7 @@ def create_header_list(recipe_header_reponse):
 # authenticate_user()
 # Authenticate current user, using the given authentication
 # object
+# TODO: Implment
 #
 def authenticate_user(gui, authentication):
 
